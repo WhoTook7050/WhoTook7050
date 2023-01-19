@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😄 Pronouns: you're/mom
+- 😄 Pronouns: 
 - 🌱 Spongebob
-- 🤔 I’m looking for help with ddossing nepnep (I troll)
+- 🤔 Nitroglycerin
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/210731839692865546?theme=light&bg=c0a1d2&hideDiscrim=true&hideTimestamp=true&hideStatus=true&idleMessage=Girls%20do%20their%20best%20now%20and%20are%20preparing.%20Please%20watch%20warmly%20until%20it%20is%20ready.)](https://discord.com/users/210731839692865546)
+[![Discord Presence](https://lanyard.cnrad.dev/api/210731839692865546?theme=light&bg=c0a1d2&hideDiscrim=true&hideTimestamp=true&hideStatus=true&idleMessage=Weebs%20really%20think%20being%20a%20degenerate%20is%20based)](https://discord.com/users/210731839692865546)
