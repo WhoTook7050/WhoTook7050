@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🌱 Spongebob
 - 🤔 Nitroglycerin
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/210731839692865546?theme=dark&bg=612982&hideDiscrim=true&hideTimestamp=true&hideStatus=true&idleMessage=Weebs%20really%20think%20being%20a%20degenerate%20is%20based)](https://discord.com/users/210731839692865546)
+[![Discord Presence](https://lanyard.cnrad.dev/api/210731839692865546?theme=dark&bg=612982&hideDiscrim=true&hideTimestamp=true&hideStatus=true&idleMessage=Quack.&hideProfile=true)](https://discord.com/users/210731839692865546)
