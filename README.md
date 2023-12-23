@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: 
 - 🌱 Spongebob
 - 🤔 Nitroglycerin
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/210731839692865546?theme=dark&bg=612982&hideDiscrim=true&hideTimestamp=true&hideStatus=true&idleMessage=Quack.&hideProfile=true)](https://discord.com/users/210731839692865546)
